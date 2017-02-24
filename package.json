@@ -1,0 +1,11 @@
+{
+	"name" : "component-based-webapp-seed",
+	"version" : "0.0.1",
+	"description" : "component-based-webapp-seed",
+	"keywords" : ["yeoman-generator"],
+	"license" : {
+		"type" : "ISC",
+		"url" : "http://opensource.org/licenses/ISC"
+	},
+	"dependencies" : {}
+}
