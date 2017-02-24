@@ -1,6 +1,7 @@
 {
 	"name" : "component-based-webapp-seed",
 	"version" : "0.0.1",
+	"private": true,
 	"description" : "component-based-webapp-seed",
 	"keywords" : ["yeoman-generator"],
 	"license" : {
