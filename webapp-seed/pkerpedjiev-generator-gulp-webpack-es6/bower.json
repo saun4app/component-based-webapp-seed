@@ -1,0 +1,27 @@
+{
+  "name": "main",
+  "version": "0.1.0",
+  "homepage": "https://github.com/saun4app/generator-component-based-webapp",
+  "authors": [
+    "saun4app <saun4app@gmail.com>"
+  ],
+  "description": "main",
+  "main": [
+    "dist/scripts/main.js"
+  ],
+  "moduleType": "es6",
+  "keywords": [ ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.13",
+    "jquery": "~2.2.0"
+  },
+  "version": "0.8.1"
+}
