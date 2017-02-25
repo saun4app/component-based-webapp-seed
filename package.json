@@ -1,12 +1,22 @@
 {
-	"name" : "component-based-webapp-seed",
-	"version" : "0.0.1",
-	"private": true,
-	"description" : "component-based-webapp-seed",
-	"keywords" : ["yeoman-generator"],
-	"license" : {
-		"type" : "ISC",
-		"url" : "http://opensource.org/licenses/ISC"
-	},
-	"dependencies" : {}
+  "name": "component-based-webapp-seed",
+  "version": "0.0.1",
+  "private": true,
+  "description": "component-based-webapp-seed",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "license": {
+    "type": "ISC",
+    "url": "http://opensource.org/licenses/ISC"
+  },
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "gulp": "^3.9.1",
+    "gulp-sequence": "^0.4.6",
+    "jsonfile": "^2.4.0"
+  }
 }
+pkerpedjiev_generator_gulp_webpack_es6
